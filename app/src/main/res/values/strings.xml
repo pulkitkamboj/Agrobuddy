@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AgroBuddy</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="textview" translatable="false">TextView</string>
+    <string name="server_prediction">Server Prediction</string>
+    <string name="click_photo">Click Photo</string>
+    <string name="click_for_remedial_measures">Click For Remedial Measures</string>
+</resources>

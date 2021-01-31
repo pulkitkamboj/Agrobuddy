@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AgroBuddy</string>
+    <string name="take_picture">फोटो क्लिक करें</string>
+    <string name="textview" translatable="false">TextView</string>
+    <string name="click_photo">फोटो क्लिक करें</string>
+    <string name="click_for_remedial_measures">उपचारात्मक उपायों के लिए क्लिक करें</string>
+</resources>

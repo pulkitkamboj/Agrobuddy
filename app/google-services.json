@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "303872937606",
+    "firebase_url": "https://agrobuddy-3ed7a.firebaseio.com",
+    "project_id": "agrobuddy-3ed7a",
+    "storage_bucket": "agrobuddy-3ed7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303872937606:android:331b9b45706826e3b54b07",
+        "android_client_info": {
+          "package_name": "com.aptech.anu.agrobuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303872937606-ifnh1cg8k2rr75rj7i9fvl5vsrlkk4o0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aptech.anu.agrobuddy",
+            "certificate_hash": "df327480445e1b61d318f63c70dee7ab68c70915"
+          }
+        },
+        {
+          "client_id": "303872937606-jqdcn6049hsj6gk3c3d7sr9mluhsv2r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyGPfM8cx0_neQmW8Ia3vnMVPuYTR5Djs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303872937606-jqdcn6049hsj6gk3c3d7sr9mluhsv2r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
